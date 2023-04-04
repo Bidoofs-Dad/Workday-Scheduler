@@ -20,7 +20,11 @@ There was a few of us that worked together in a study group to knock this challe
 
 I will list some screenshots of the scheduler in working order below!
 
-![Workday-Scheduler](/)
+![Workday-Scheduler](/assets/images/01.png)
+![Workday-Scheduler](/assets/images/02.png)
+![Workday-Scheduler](/assets/images/03%20stored%20in%20local%20storage.png)
+![Workday-Scheduler](/assets/images/04%20after%20refreshing%20the%20page.png)
+![Workday-Scheduler](/assets/images/05%20show%20color%20change%20after%20new%20hour.png)
 
 ## Conclusion
 
@@ -30,9 +34,4 @@ In conclusion, this was a fun yet difficult challenge. Working together with som
 
 Below is the link that will take you to the live website, hosted by GitHub Pages!
 
-
-
-
-
-
-
+https://bidoofs-dad.github.io/Workday-Scheduler/
